@@ -1,3 +1,0 @@
-this is my first git file
-modify file1.txt for fun
-2nnd modify file1.txt for fun
